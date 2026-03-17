@@ -1,7 +1,7 @@
 # Ex.No:5
 # RECOGNITION OF THE GRAMMAR(a^nb where n>=10) USING YACC
 
-## Register Number:212224040319
+## Register Number:212224040303
 
 ## Date:11/03/2026
 
