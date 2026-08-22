@@ -3,7 +3,7 @@
 
 ## Register Number:212224040303
 
-## Date:17/03/2026
+## Date:17/08/2026
 
 ## AIM:
 To write a YACC program to recognize the grammar a^nb where n>=10.
